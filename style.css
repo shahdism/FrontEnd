@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+  
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    width: Hug (608px)px;
+    height: Hug (248px)px;
+    top: 274px;
+    left: 56px;
+    gap: 24px;
+    opacity: 0px;
+    
+}
+
+.hero h2 {
+    font-family: Bely Display;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80px;
+    text-align: left;
+    
+}
+
+.hero p {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}    
+
+.button {
+    background: #71A894;
+
+    width: Hug (219px)px;
+    height: Hug (64px)px;
+    top: 562px;
+    left: 56px;
+    padding: 20px 24px 20px 24px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+/* Styles for the header image */
+.header-image {
+    width: 1012px;
+    height: 569.58px;
+    top: 165px;
+    left: -146px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.rightt {
+    width: 720px;
+    height: 900px;
+    left: 720px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+
+
+
+
+}
